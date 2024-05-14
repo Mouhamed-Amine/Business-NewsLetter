@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-![Design preview for the Social links profile coding challenge](./design/desktop-design.jpg)
+![Design preview for the Social links profile coding challenge](design/desktop-design.jpg)
 
 ## Table of contents
 
