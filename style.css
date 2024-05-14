@@ -54,13 +54,7 @@ font-size: 3.8rem;
     -ms-border-radius: 40px;
     -o-border-radius: 40px;
 }
- .right-content{
-margin-left:1em;
- }
 
-.article{
-    flex:1;
-}
 ul{
     margin-bottom: 2em;
 }
@@ -85,7 +79,7 @@ ul li{
     padding:1.8em 1.7em;
     text-decoration: none;
     color: var(--Grey);
-    width: 100%;
+    width: 90%;
     border: 1px solid var(--Charcoal_Grey);
     -webkit-border-radius: 7px;
     -moz-border-radius: 7px;
@@ -106,7 +100,7 @@ ul li{
   }
 
 .btn-sub{ 
-    width: 100%;
+    width: 90%;
     background-color: var(--Dark_Slate_Grey); padding:1.5em 1.7em; display: block; border-radius:7px ; color: var(--White); text-align: center; text-decoration: none; -webkit-border-radius:7px ; -moz-border-radius:7px ; -ms-border-radius:7px ; -o-border-radius:7px ;
 }
 .btn-sub:hover{
