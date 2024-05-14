@@ -54,6 +54,9 @@ font-size: 3.8rem;
     -ms-border-radius: 40px;
     -o-border-radius: 40px;
 }
+ .right-content{
+margin-left:1em;
+ }
 
 .article{
     flex:1;
