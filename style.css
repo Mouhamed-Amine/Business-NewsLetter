@@ -42,7 +42,7 @@ font-size: 3.8rem;
     display: flex; /*flex*/
     flex-wrap: wrap;
     align-content: center;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 1em 1em;
     border-radius: 40px;
     font-family: var(--Family);
