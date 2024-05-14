@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Social links profile coding challenge](./design/desktop-design.jpg)
 
 ## Table of contents
 
@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/solutions/socialmedia-profile-links-aT9kPI44kr)
-- Live Site URL: [Live Site](https://social-links-profile-three-alpha.vercel.app)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-newsletter-a1SCKJB9Rv)
+- Live Site URL: [Live Site](https://business-news-letter.vercel.app)
 
 ### Building your project
 
